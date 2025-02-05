@@ -26,9 +26,10 @@ This project demonstrates a secure and user-friendly authentication system. Key 
 ## Getting Started
 
 1. **Clone the repository:**
-   ```bash
+
+```bash
    git clone [https://github.com/AleRivasSora/AuthDemo]
-   ```
+```
 2. **Install dependencies:**
  ```bash
    npm install
