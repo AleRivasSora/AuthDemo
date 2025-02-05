@@ -33,15 +33,15 @@ This project demonstrates a secure and user-friendly authentication system. Key 
    ```
    2. **Install dependencies:**
       
-    ```bash
-      npm install
-    ```
+       ```bash
+         npm install
+       ```
    
    4. **Run development server:**
    
-   ```bash
-     npm run dev
-   ```
+      ```bash
+        npm run dev
+      ```
    4. **Access the app: Open http://localhost:3000 in your browser.**
 ## Features
 
