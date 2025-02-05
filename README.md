@@ -20,11 +20,11 @@ This project demonstrates a secure and user-friendly authentication system. Key 
 
 **Explore the project and experience a seamless authentication flow.** 
 
-![screen](public/screen.png)
+<img src="public/screen.png" alt="screenshot" width="600"/>
 
-![screen](public/screen2.png)
+<img src="public/screen2.png" alt="screenshot" width="600"/>
 
-![screen](public/screen3.png)
+<img src="public/screen3.png" alt="screenshot" width="600"/>
 ## Getting Started
 
 1. **Clone the repository:**
