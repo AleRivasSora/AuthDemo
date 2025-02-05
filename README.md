@@ -22,9 +22,9 @@ This project demonstrates a secure and user-friendly authentication system. Key 
 
 ![screen](public/screen.png)
 
-![screen](screen2.png)
+![screen](public/screen2.png)
 
-![screen](screen3.png)
+![screen](public/screen3.png)
 ## Getting Started
 
 1. **Clone the repository:**
