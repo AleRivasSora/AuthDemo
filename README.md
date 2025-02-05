@@ -23,23 +23,24 @@ This project demonstrates a secure and user-friendly authentication system. Key 
 <img src="public/screen.png" alt="screenshot" width="600"/>
 <img src="public/screen2.png" alt="screenshot" width="600"/>
 <img src="public/screen3.png" alt="screenshot" width="600"/>
+
 ## Getting Started
 
-1. **Clone the repository:**
-
-```bash
-   git clone [https://github.com/AleRivasSora/AuthDemo]
-```
-2. **Install dependencies:**
- ```bash
-   npm install
- ```
-
-3. **Run development server:**
-```bash
-  npm run dev
-```
-4. **Access the app: Open http://localhost:3000 in your browser.**
+   1. **Clone the repository:**
+   
+   ```bash
+      git clone [https://github.com/AleRivasSora/AuthDemo]
+   ```
+   2. **Install dependencies:**
+    ```bash
+      npm install
+    ```
+   
+   3. **Run development server:**
+   ```bash
+     npm run dev
+   ```
+   4. **Access the app: Open http://localhost:3000 in your browser.**
 ## Features
 
 * **Dark Mode:** Seamlessly switch between light and dark modes for optimal user experience.
