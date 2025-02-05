@@ -20,7 +20,7 @@ This project demonstrates a secure and user-friendly authentication system. Key 
 
 **Explore the project and experience a seamless authentication flow.** 
 
-![screen](screen.png)
+![screen](public/screen.png)
 
 ![screen](screen2.png)
 
