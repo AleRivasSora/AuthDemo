@@ -32,11 +32,13 @@ This project demonstrates a secure and user-friendly authentication system. Key 
       git clone [https://github.com/AleRivasSora/AuthDemo]
    ```
    2. **Install dependencies:**
+      
     ```bash
       npm install
     ```
    
-   3. **Run development server:**
+   4. **Run development server:**
+   
    ```bash
      npm run dev
    ```
