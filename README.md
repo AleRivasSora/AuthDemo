@@ -29,7 +29,7 @@ This project demonstrates a secure and user-friendly authentication system. Key 
    1. **Clone the repository:**
    
    ```bash
-      git clone [https://github.com/AleRivasSora/AuthDemo]
+      git clone https://github.com/AleRivasSora/AuthDemo
    ```
    2. **Install dependencies:**
       
